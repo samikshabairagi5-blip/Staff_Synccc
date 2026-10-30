@@ -1,0 +1,6 @@
+{
+  "name": "NexusHR - Human Resource Management System",
+  "description": "Comprehensive MERN-based HR management platform with role-based access for Employees, Managers, and HR Personnel covering attendance, leaves, training, performance, and analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
